@@ -36,4 +36,4 @@
 
 This project is owned and maintained by [Jonathan Bernardi / Henkel AG & Co. KGaA].
 
-#### For technical support, contact: 1-800-LOCTITE
+#### For technical support, contact: 1-800-LOCTITE email: tech.services@henkel.com
