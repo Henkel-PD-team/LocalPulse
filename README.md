@@ -3,7 +3,7 @@
 ### Navigate to Releases on the side and select the appropriate file (Windows or Mac/Linux).
 ## To use:
 ## * Please use a switch to connect your computer and the I4.0 capable devices using ethernet. The server will not start unless the switch is plugged in, or you are directly plugged into an RC50/SD30 via ethernet.
-## ** If Wi-Fi is to be used, please contact me using my email below and I can assist with that use case (I will have to recreate the application to reflect your Wireless IP address).
+## ** If Wi-Fi is to be used, please contact technical support below.
 ### If on Mac/Linux, skip the next section, as it corresponds only to Windows.
 ### Windows Setup:
 #### You must open ports 8088 for RC50 and 8089 for SD30 through your Windows Firewall <- create inbound rule for tcp ports 8088 and 8089.
