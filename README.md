@@ -1,4 +1,6 @@
 # LocalPulse
+## About
+### Local Pulse is a lightweight software application from Henkel that runs on a customer’s computer or laptop to pull, display and save Loctite Equipment Machine data locally. Local Pulse will pull data from enabled IOT compatible Loctite machines every 30 seconds and then stores the data in a csv locally.
 ## To download:
 ### Navigate to Releases on the side and select the appropriate file (Windows or Mac/Linux).
 ## To use:
