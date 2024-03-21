@@ -15,7 +15,7 @@
 ##### 3. New Rule: On the right pane, click on New Rule.
 ##### 4. Rule Type: Select Port and click Next.
 ##### 5a. Protocol and Ports: Choose TCP
-##### 5b Select Specific local ports, enter the port number you want to open (8088,8089), and click Next.
+##### 5b. Select Specific local ports, enter the port number you want to open (8088,8089), and click Next.
 ##### 6. Action: Choose Allow the connection and click Next.
 ##### 7. Profile: Select when this rule applies (Domain, Private, Public). It's common to select all options if you're unsure. Click Next.
 ##### 8. Name: Give your rule a name and an optional description. Click Finish.
