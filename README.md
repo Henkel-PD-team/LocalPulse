@@ -7,7 +7,7 @@
 ## * Please use a switch to connect your computer and the I4.0 capable devices using ethernet. The server will not start unless the switch is plugged in, or you are directly plugged into an RC50/SD30 via ethernet.
 ## ** If Wi-Fi is to be used, please contact technical support below.
 ### If on Mac/Linux, skip the next section, as it corresponds only to Windows.
-### Windows Setup:
+### Windows Setup (How to video in Windows Release):
 #### You must open ports 8088 for RC50 and 8089 for SD30 through your Windows Firewall <- create inbound rule for tcp ports 8088 and 8089.
 ##### Using Windows Firewall with Advanced Security (GUI):
 ##### 1. Open Windows Firewall with Advanced Security: Press Windows + R to open the Run dialog, type wf.msc, and press Enter.
